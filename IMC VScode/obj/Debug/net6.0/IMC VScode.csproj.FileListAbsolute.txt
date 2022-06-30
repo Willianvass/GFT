@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\bin\Debug\net6.0\IMC VScode.exe
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\bin\Debug\net6.0\IMC VScode.deps.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\bin\Debug\net6.0\IMC VScode.runtimeconfig.json
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\bin\Debug\net6.0\IMC VScode.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\bin\Debug\net6.0\IMC VScode.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\refint\IMC VScode.dll
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.pdb
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\IMC VScode.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Desenvolvedor\GFT\Desafio VSCode\DESAFIOS GFT\IMC VScode\obj\Debug\net6.0\ref\IMC VScode.dll
